@@ -11,8 +11,8 @@ PHP練習で作成した画像のアップロード・閲覧用Webアプリケ�
 
 # Install
 
-1. DDL.sqlをDBeaverなどのSQLアプリケーションで実行してください。
-2. データベースのrootのpasswordは"0315"に設定し、データベース名は"uploaded_images"で作成してください。
+1. データベースのrootのpasswordは"0315"に設定し、データベース名は"uploaded_images"で作成してください。
+2. DDL.sqlをDBeaverなどのSQLアプリケーションで実行してください。
 3. index.phpを開いて、使いたい機能を選択してください。
 
 # License
